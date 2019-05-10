@@ -1,4 +1,10 @@
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.Models/bin/Debug/MySwoleMate.Models.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.Models/bin/Debug/MySwoleMate.Models.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/bin/Debug/MySwoleMate.Models.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/bin/Debug/MySwoleMate.Models.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.csprojAssemblyReference.cache
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.csproj.CoreCompileInputs.cache
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.Models/obj/Debug/MySwoleMate.Models.pdb

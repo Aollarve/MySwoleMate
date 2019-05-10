@@ -1,9 +1,20 @@
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.csprojResolveAssemblyReference.cache
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.pdb
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.pdb
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.pdb
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
-c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.csprojResolveAssemblyReference.cache
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.BLL.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.BLL.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.DAL.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.Models.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.DAL.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/bin/Debug/MySwoleMate.Models.pdb
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.dll
+c:/users/joon/documents/visual studio 2015/Projects/MySwoleMate-Starter/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.BLL.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.BLL.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.DAL.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.Models.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.DAL.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/bin/Debug/MySwoleMate.Models.pdb
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.csprojAssemblyReference.cache
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.csproj.CoreCompileInputs.cache
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.csproj.CopyComplete
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.dll
+/Users/andresollarvez/Desktop/GitHub-Files/MySwoleMate/MySwoleMate.BLL/obj/Debug/MySwoleMate.BLL.pdb

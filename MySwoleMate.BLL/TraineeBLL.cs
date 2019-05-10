@@ -36,6 +36,7 @@ namespace MySwoleMate.BLL
                 //into the HeightDisplay and PhoneDisplay properties of the item.
                 //The DisplayHeight is done for you.
                 item.DisplayHeight = HeightDisplay(item.Height);
+                item.DisplayCellNbr = PhoneDisplay(item.CellNbr);
             }
             return trainees;
         }
@@ -66,13 +67,22 @@ namespace MySwoleMate.BLL
 
         //You can create the private methods for HeightDisplay and PhoneDisplay below.
         //The HeightDisplay method signature has been given to you.
+        // Takes height in inches and returns it in feet and inches
         private string HeightDisplay(int height)
         {
             //store the displayed height
             string heightDisplay = "";
             //perform the calculations to separate feet and height (hint: this is a great 
             //time to use the % (modulus) operator
+            heightDisplay = (67 / 12) + " ft. ";
+            heightDisplay = heightDisplay + (67 % 12) + " in.";
             return heightDisplay;
+        }
+
+        // Takes phone number and returns it separated by hyphens
+        private string PhoneDisplay(string phoneNum)
+        {
+            return phoneNum.Substring(0, 3) + "-" + phoneNum.Substring(3, 3) + "-" + phoneNum.Substring(6, 4);
         }
     }
 }
